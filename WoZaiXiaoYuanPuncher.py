@@ -146,3 +146,5 @@ class WoZaiXiaoYuanPuncher:
             return "❌ 打卡失败，未登录,请重新登录"
         else:
             return "❌ 打卡失败，发生未知错误"
+
+        
