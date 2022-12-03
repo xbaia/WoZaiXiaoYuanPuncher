@@ -1,14 +1,14 @@
 [
     {
-        "username": "18011160981",
-        "password": "0981zk",
+        "username": "180****0981",
+        "password": "******",
         "data_list": {
-            "location": "中国/陕西省/西安市/鄠邑区/五竹街道/长庆石化路/156/610118/156610100/610118003/34.10328694661458/108.65267930772569",
+            "location": "*",
             "t1": "是",
             "t2": "绿色",
             "t3": "是"
         },
-        "push_plus_token": "a9cbc466b3ce47839d302e7ce2231c9c",
-        "cookies": "b2e41daa1b38439184878e5b69edd6c3"
+        "push_plus_token": "*",
+        "cookies": "*"
     }
 ]
