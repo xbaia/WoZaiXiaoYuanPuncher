@@ -1,7 +1,7 @@
 from WoZaiXiaoYuanPuncher import WoZaiXiaoYuanPuncher
 from jsonHandler import JsonReader
 
-JSON_FILE = "./config/source.json"
+JSON_FILE = "./source.json"
 
 
 if __name__ == '__main__':
